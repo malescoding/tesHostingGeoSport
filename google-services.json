@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553443720824",
+    "firebase_url": "https://geosport-39ccc.firebaseio.com",
+    "project_id": "geosport-39ccc",
+    "storage_bucket": "geosport-39ccc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553443720824:android:460a59054570d931",
+        "android_client_info": {
+          "package_name": "com.example.asap20.geosport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553443720824-an2qdekhcvcl26egvsh7p48rnofsbs62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asap20.geosport",
+            "certificate_hash": "c7cbea33b55bb6ab7a0ffe0e6366ea3f8c5d17f1"
+          }
+        },
+        {
+          "client_id": "553443720824-b6ll8kunlcq9uthalubbg55blh2cu67j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt5BuyWJzUnRWgIi1VJpxGIPeTeiGJoOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553443720824-b6ll8kunlcq9uthalubbg55blh2cu67j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
